@@ -7,7 +7,7 @@ public class DataTypes {
        // DataTypes --> byte , short , long (more)
 
        char grade = 'A'; // ASCII value 
-       System.out.println(grade);
+       System.out.println(grade); 
        char grade1 = 65; //  A = 65 in ASCII value Table
        System.out.println(grade1);
 
