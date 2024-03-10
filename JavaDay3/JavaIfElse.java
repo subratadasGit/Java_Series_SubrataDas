@@ -14,7 +14,7 @@ class JavaIfElse{
         }
         else{
             System.out.println("B is bigger");
-        }
+        }  
 
         if(a==b){
             System.out.println("Both  carry same value");
