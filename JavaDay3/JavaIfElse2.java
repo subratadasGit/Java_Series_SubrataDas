@@ -18,6 +18,6 @@ public class JavaIfElse2 {
             System.out.println("Both are not same");
         }
 
-
+              
     }
 }
